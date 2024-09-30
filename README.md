@@ -1,6 +1,6 @@
 # zkevm-contracts
 
-Smart contract implementation which will be used by the polygon zkevm
+Smart contract adaptation and implementation used by THRUST TNT as local files suitable for deployment for allchains
 
 [![Main CI](https://github.com/0xPolygonHermez/zkevm-contracts/actions/workflows/main.yml/badge.svg)](https://github.com/0xPolygonHermez/zkevm-contracts/actions/workflows/main.yml)
 
